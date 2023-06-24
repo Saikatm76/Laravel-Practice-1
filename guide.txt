@@ -1,0 +1,7 @@
+----bootstrap install----
+composer require laravel/ui
+php artisan ui bootstrap --auth
+npm install && npm run dev(2)
+
+----rename column in laravel migration----
+composer require doctrine/dbal

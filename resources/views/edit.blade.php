@@ -1,0 +1,1 @@
+<p>show {{$id}} {{$name}} {{$sndname}}</p>

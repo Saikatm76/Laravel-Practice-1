@@ -1,0 +1,1 @@
+<p>this is index view</p>
